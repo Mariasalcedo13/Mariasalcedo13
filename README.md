@@ -9,7 +9,7 @@ Desarrollo Frontend - Laboratoria (Bootcamp Intensivo) (2023 - 2024)
 Después de completar con éxito el bootcamp, me gradué con orgullo como Desarrolladora Front-End. Ahora, mi ambición es tejer mi camino hacia un apasionado mundo de Desarrollo Full Stack. 💻✨ ¡Listx para conquistar nuevos horizontes!
 
 💻 Tech Stack:
-HTML5 JavaScript Firebase GithubPages NodeJS Vite Firebase Figma Canva Adobe Illustrator Adobe Photoshop GIT ESLint Trello https://badgen.net/badge/icon/github?icon=github&label
+HTML5 JavaScript Firebase GithubPages NodeJS Vite Firebase Figma Canva Adobe Illustrator Adobe Photoshop GIT ESLint Trello 
 
 
 🌐 Socials:
