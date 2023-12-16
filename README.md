@@ -38,7 +38,7 @@ Página web que muestra las características de los personajes de Pokemon Go! en
 Aplicación web para analizar texto y mostrar indicadores específicos sobre caracteres, letras, números, etc.
 - ✅ HTML, CSS, Git, GitHub, Node.js, Visual Studio Code y JavaScript.
 
-![UI/UX Design]
+## UI/UX Design
 ### Proyectos de Diseño
 - [Proyecto 1 Mujer](https://www.figma.com/file/hyQV7Skr0fpHwILHZkA4WA/app-mujer?type=design&mode=design&t=pSghi9twoj9Qb9dn-1)
 - [Proyecto 2 Mi plantapp](https://www.figma.com/file/cGOxmq6boCoUa18vaFHEA1/WhatsApp-Image-2023-05-03-at-10.15.47-AM?type=design&node-id=266%3A17&mode=design&t=pSghi9twoj9Qb9dn-1)
