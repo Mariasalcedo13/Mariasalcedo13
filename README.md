@@ -5,7 +5,7 @@
 ## Educación
 - **Desarrollo Frontend** en [Laboratoria](https://www.laboratoria.la/) (Bootcamp Intensivo) (2023 - 2024)
 
-Después de completar con éxito el bootcamp, me gradué con orgullo como Desarrolladora Front-End. Ahora, mi ambición es tejer mi camino hacia un apasionado mundo de Desarrollo Full Stack. 💻✨ ¡Listx para conquistar nuevos horizontes!
+Después de completar con éxito el bootcamp, me gradué con orgullo como Desarrolladora Front-End. Ahora, mi ambición es tejer mi camino hacia un apasionado mundo de Diseño web. 💻✨ ¡Listx para conquistar nuevos horizontes!
 
 ## Tech Stack 💻
 - HTML 🌐
