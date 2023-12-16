@@ -42,7 +42,7 @@ Aplicación web para analizar texto y mostrar indicadores específicos sobre car
 ### Proyectos de Diseño
 - [Proyecto 1 Mujer](https://www.figma.com/file/hyQV7Skr0fpHwILHZkA4WA/app-mujer?type=design&mode=design&t=pSghi9twoj9Qb9dn-1)
 - [Proyecto 2 Mi plantapp](https://www.figma.com/file/cGOxmq6boCoUa18vaFHEA1/WhatsApp-Image-2023-05-03-at-10.15.47-AM?type=design&node-id=266%3A17&mode=design&t=pSghi9twoj9Qb9dn-1)
-- [Proyecto 3 Pokemon Go!](https://www.figma.com/file/kNU3PUX10TcYOe2nHga2Zr/historias-de-usuario?type=whiteboard&node-id=0%3A1&t=pSghi9twoj9Qb9dn-1) --H.U (https://www.figma.com/file/cGOxmq6boCoUa18vaFHEA1/WhatsApp-Image-2023-05-03-at-10.15.47-AM?type=design&node-id=219%3A2&mode=design&t=pSghi9twoj9Qb9dn-1)
+- [Proyecto 3 Pokemon Go!](https://www.figma.com/file/cGOxmq6boCoUa18vaFHEA1/WhatsApp-Image-2023-05-03-at-10.15.47-AM?type=design&node-id=219%3A2&mode=design&t=pSghi9twoj9Qb9dn-1)
 
 ## GitHub Stats 📊
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mariasalcedo13&show_icons=true)
